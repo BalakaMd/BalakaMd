@@ -1,12 +1,10 @@
-# Dmytro Balakin - Junior Python Developer
+# Dmytro Balakin - FullStack Developer
 
-Hello, and welcome to my GitHub page! I'm Dmytro Balakin, a 29-year-old professional originally from Ukraine and currently residing in Israel. I have transitioned from a career in medicine, starting as an assistant surgeon at Kharkiv Emergency Hospital in Ukraine and working my way up to become the head of one of the IDF clinics in Israel. Now, I'm embarking on a new journey in the high-tech world as a junior Python developer.
-
+Hello, and welcome to my GitHub page!
 ## About Me
 
 - **Name**: Dmytro Balakin
 - **Location**: Israel
-- **Age**: 29
 
 ## Professional Background
 
