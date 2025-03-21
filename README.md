@@ -14,7 +14,6 @@
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-<img align="left" alt="React Native" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
