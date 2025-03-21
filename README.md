@@ -1,31 +1,34 @@
-# Dmytro Balakin - FullStack Developer
+<h1>This project is under construction... 👨‍🎨</h1>
 
-Hello, and welcome to my GitHub page!
-## About Me
+### Hi there, I'm Dmytro Balakin 👋
 
-- **Name**: Dmytro Balakin
-- **Location**: Israel
+- 🌍 Based in **Israel**
+- 🔭 Working on **various development projects**
+- 🌱 Continuously learning **new technologies and programming approaches**
+- 🤔 Seeking help with **finding more hours in a day**
+- 📫 How to reach me: **Balaka.md@gmail.com**
+- ⚡ Fun fact: **My career began in medicine, but my passion for technology led me to software development**
 
-## Professional Background
+### My Tech Stack
 
-My professional journey has been a testament to my dedication and hard work. I have a proven track record of excellence in every role I've taken on, starting from the age of 18. While my background is in medicine, my passion for technology and development has driven me to transition into the high-tech industry.
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
+<img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
 
-## What I Bring to the Table
+<br clear="left"/>
 
-- **Proactivity**: I'm a proactive individual who takes initiative to drive projects forward.
-- **Dedication**: My commitment to my work is unwavering, and I strive for excellence in everything I do.
-- **Professional Skills**: I have developed a wide range of professional skills that make me a valuable asset in the high-tech sector.
+### Contact Me
 
-## GitHub Repository
-
-This GitHub repository hosts my coding projects, demonstrating my capabilities as a junior Python developer. If you'd like to explore my work, you're in the right place!
-
-## Contact
-
-If you'd like to get in touch with me or learn more about my experience, please feel free to reach out. I'm eager to connect with like-minded individuals, potential employers, and fellow developers.
-
-- **Email**: Balaka.md@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/dmytro-balakin-334256275/)
+- **Email**: [Balaka.md@gmail.com](mailto:Balaka.md@gmail.com)
+- **LinkedIn**: [My Profile](https://il.linkedin.com/in/dmytro-balakin)
 - **Website**: [My Personal Website](https://dmytro-balakin.onrender.com/)
 
-Thank you for visiting my GitHub page, and I look forward to the exciting journey ahead in the world of high-tech and software development!
+Thank you for visiting my GitHub! I look forward to new opportunities and collaborations in the world of high-tech and software development.
