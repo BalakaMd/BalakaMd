@@ -6,7 +6,7 @@
 - 🔭 Working on **various development projects**
 - 🌱 Continuously learning **new technologies and programming approaches**
 - 🤔 Seeking help with **finding more hours in a day**
-- 📫 How to reach me: **Balaka.md@gmail.com**
+- 📫 How to reach me: **md.balaka@gmail.com**
 - ⚡ Fun fact: **My career began in medicine, but my passion for technology led me to software development**
 
 ### My Tech Stack
@@ -31,7 +31,7 @@
 
 ### Contact Me
 
-- **Email**: [Balaka.md@gmail.com](mailto:Balaka.md@gmail.com)
+- **Email**: [md.balaka@gmail.com](mailto:md.balaka@gmail.com)
 - **LinkedIn**: [My Profile](https://il.linkedin.com/in/dmytro-balakin)
 - **Website**: [My Personal Website](https://dmytro-balakin.onrender.com/)
 
